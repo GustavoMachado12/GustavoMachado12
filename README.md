@@ -1,4 +1,4 @@
-# Opa! Sou Gustavo.
+# Opa! Eu sou o Gustavo. 
 
 <div style="display: inline-block" >
   <div align="center">
@@ -29,4 +29,3 @@
   </div>
 </div>
 
-![Snake animation](https://github.com/GustavoMachado12/GustavoMachado12/blob/output/github-contribution-grid-snake.svg)
